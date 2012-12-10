@@ -32,6 +32,7 @@ public class Overlord
 		      	} 
 			}
 		);
+		Arbitrator arb = new Arbitrator();
 
 	}
 }
