@@ -1,6 +1,7 @@
 
 public class Opening 
 {
+    // I'm in ur codez
 	public int getStartIndex() 
 	{
 		return startIndex;
